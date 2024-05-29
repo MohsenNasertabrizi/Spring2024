@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	"net/http"
-	"https://github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/handler"
-	"https://github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/model"
+	"github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/handler"
+	"github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/model"
 
 	"github.com/gorilla/mux"
 )
