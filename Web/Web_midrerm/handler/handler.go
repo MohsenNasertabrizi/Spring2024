@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 	"strconv"
-	"https://github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/model"
-	"https://github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/request"
+	"github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/model"
+	"github.com/MohsenNasertabrizi/Spring2024/tree/main/Web/Web_midrerm/request"
 	"github.com/gorilla/mux"
 )
 
